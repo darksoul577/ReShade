@@ -13,3 +13,5 @@ Features:
 1) All particles are rendered (map hack)
 2) A bounding box is drawn on your hero if your hero is seen (e.g., there is an enemy ward nearby)
 3) Bounding boxes are drawn on non-illusion enemies
+
+Credits: Based on code from https://github.com/LWSS/McDota, https://github.com/shekeru/dotka-cheats, and the coders over at https://guidedhacking.com/
