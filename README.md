@@ -4,7 +4,7 @@ DOTA 2 Helper
 How to use:
 
 1. Create a shortcut on your desktop for x64 bit Dota
-2. Add -console to the shortcut option
+2. Add -console to the shortcut (e.g., "C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\bin\win64\dota2.exe")
 3. Start game and inject DLL
 
 
