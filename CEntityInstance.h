@@ -247,8 +247,6 @@ public:
 	virtual void DrawModel();
 	virtual void GetRenderBounds();
 	virtual void GetRenderBoundsWorldspace();
-	virtual void unknown199();
-	virtual void unknown200();
 	virtual void SetDormant();
 	virtual void KeyValue();
 	virtual void GetKeyValue();
@@ -260,10 +258,8 @@ public:
 	virtual void OnNewModel(); // 
 	virtual void GetColorModulation(); // 
 	virtual void GetGlobalFadeScale(); // 
-	virtual void DamageDecal(); //215  #STR: "ManhackCut", "BulletProof"
-	virtual void n_216(); // 
-	virtual void n_217(); // 
+	virtual void DamageDecal(); //  #STR: "ManhackCut", "BulletProof"
 	virtual void SetViewOffset(); // 
-	virtual bool CanBeSeenByTeam(DOTATeam_t team); //  215
+	virtual bool CanBeSeenByTeam(DOTATeam_t team); //  211
 	virtual void IsPartOfFOWSystem(); 
 };
