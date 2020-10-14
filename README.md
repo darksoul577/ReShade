@@ -11,14 +11,14 @@ Features:
 
 1) Enemy particle rendering in the fog of war, shows tps, smoke, spells, blood splatter from attacking creeps/roshan, etc.:
 
-https://user-images.githubusercontent.com/65406898/96032843-e47de700-0e24-11eb-8571-899f4ce527b1.jpg
+![enemyparticles](https://user-images.githubusercontent.com/65406898/96032843-e47de700-0e24-11eb-8571-899f4ce527b1.jpg)
 
 2) A bounding box is drawn on your hero if your hero is seen (e.g., there is an enemy ward nearby):
 
-https://user-images.githubusercontent.com/65406898/96032848-e5167d80-0e24-11eb-9534-aa033af3c9cb.jpg
+![truesight](https://user-images.githubusercontent.com/65406898/96032848-e5167d80-0e24-11eb-9534-aa033af3c9cb.jpg)
 
 3) Bounding boxes are drawn on non-illusion enemies:
 
-https://user-images.githubusercontent.com/65406898/96032846-e5167d80-0e24-11eb-9419-00294616349f.jpg
+![illusiondetection](https://user-images.githubusercontent.com/65406898/96032846-e5167d80-0e24-11eb-9419-00294616349f.jpg)
 
 Credits: Based on code from https://github.com/LWSS/McDota, https://github.com/shekeru/dotka-cheats, and the coders over at https://guidedhacking.com/
