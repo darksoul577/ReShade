@@ -245,14 +245,6 @@ public:
 	virtual void GetObserverCamOrigin();
 	virtual void RenderableToWorldTransform(); 
 	virtual void DrawModel();
-	virtual void GetRenderBounds();
-	virtual void GetRenderBoundsWorldspace();
-	virtual void SetDormant();
-	virtual void KeyValue();
-	virtual void GetKeyValue();
-	virtual void Release();
-	virtual void OnParseMapDataFinished(); 
-	virtual void NotifyShouldTransmit(); 
 
 	//C_BaseModelEntity
 	virtual void OnNewModel(); // 
@@ -260,6 +252,6 @@ public:
 	virtual void GetGlobalFadeScale(); // 
 	virtual void DamageDecal(); //  #STR: "ManhackCut", "BulletProof"
 	virtual void SetViewOffset(); // 
-	virtual bool CanBeSeenByTeam(DOTATeam_t team); //  211
+	virtual bool CanBeSeenByTeam(DOTATeam_t team); //  203
 	virtual void IsPartOfFOWSystem(); 
 };
